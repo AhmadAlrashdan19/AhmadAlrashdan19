@@ -31,7 +31,7 @@ Full-stack developer by background, heading toward embedded systems and defense/
 - **Self-directed learning:** I build my own roadmaps and follow them through
 - **Systems thinking:** I like seeing the whole picture before touching the details
 - **Communication:** I enjoy explaining technical topics clearly
-- **Persistence:** I stick with hard problems until they make sense
+- **Stubbornness:** I stick with hard problems until they make sense
 
 ---
 
@@ -54,4 +54,3 @@ Full-stack developer by background, heading toward embedded systems and defense/
 - LinkedIn: [Ahmad Alrashdan](https://www.linkedin.com/in/ahmad-alrashdan-860a3a374)
 - Email: ahmad.mo.alrashdan@gmail.com
 - Reddit: [u/Ahmad_IOT](https://www.reddit.com/user/Ahmad_IOT/)
-- YouTube: [Channel name](https://youtube.com/@your_channel)
