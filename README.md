@@ -7,7 +7,7 @@ Full-stack developer by background, heading toward embedded systems and defense/
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering/Internet of Things student
+- 🎓 Computer Engineering student
 - 🌱 Currently learning **Rust** to move into embedded systems
 - 🛠️ I build full-stack web apps and enjoy understanding how things work at the systems level
 - 🌍 Based in Jordan
@@ -49,7 +49,7 @@ Full-stack developer by background, heading toward embedded systems and defense/
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 - LinkedIn: [Ahmad Alrashdan](https://www.linkedin.com/in/ahmad-alrashdan-860a3a374)
 - Email: ahmad.mo.alrashdan@gmail.com
